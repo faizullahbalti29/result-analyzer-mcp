@@ -28,3 +28,4 @@ coverage/
 .tmp/
 tmp/
 *.tmp
+mcp-project.mcpb
